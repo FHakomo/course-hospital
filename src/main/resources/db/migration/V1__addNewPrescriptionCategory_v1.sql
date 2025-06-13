@@ -1,0 +1,3 @@
+INSERT INTO `prescription_categories` (`description`, `images`, `name`) VALUES ('Будь-які ліки: антибіотики,в/в рідини, знеболювальні та інше', 'pills.jpg', 'Ліки');
+INSERT INTO `prescription_categories` (`description`, `images`, `name`) VALUES ('Операції', 'surgery.jpg', 'Операції');
+INSERT INTO `prescription_categories` (`description`, `images`, `name`) VALUES ('Введення ліків, проходження різних сканувань системи та інші процеси для перевірки роботоздатності системи', 'rengen.jpg', 'Процедури');
